@@ -226,7 +226,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
               enable: true
-              img: https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320 # 头像的地址
+              img: https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%A4%AA%E5%AE%B0%E6%B2%BB%20%E6%96%87%E8%B1%AA%E9%87%8E%E7%8A%AC&step_word=&hs=2&pn=46&spn=0&di=183040&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=784215470%2C2427479030&os=3928163712%2C1230210848&simid=4259673896%2C798444837&adpicid=0&lpn=0&ln=1563&fr=&fmq=1389861203899_R&fm=&ic=0&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E5%A4%AA%E5%AE%B0%E6%B2%BB&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F202003%2F25%2F20200325180806_yoevk.jpg%26refer%3Dhttp%3A%2F%2Fc-ssl.duitang.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Djpeg%3Fsec%3D1614138628%26t%3D002d73f4f8fc79d835f48400ec63cc0f&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dmabcndd8d&gsm=2f&rpstart=0&rpnum=0&islist=&querylist=&force=undefined # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fas fa-home fa-fw"></i> 首页'
                 href: /
