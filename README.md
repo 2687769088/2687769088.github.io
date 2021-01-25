@@ -6,14 +6,51 @@
 
 ## Contact
 
-- Address: **Mars**
-- Phone: **+86 15185338899**
+- Address: ** China**
 - Site: **<https://seerblog.top>**
 
 <!-- .slide vertical=true -->
 
 - E-mail:
-  - **2687769088@qq.com**
+  - **[2687769088@qq.com](mailto:2687769088@qq.com)**
 - QQ: **2687769088**
 
 <!-- .slide -->
+
+## Education
+
+<!-- .slide vertical=true -->
+
+<!-- .slide -->
+
+## Projects
+
+<!-- .slide vertical=true -->
+
+<!-- .slide -->
+
+## Honors
+
+<!-- .slide vertical=true -->
+
+<!-- .slide vertical=true -->
+
+<!-- .slide vertical=true -->
+
+<!-- .slide -->
+
+## Leadership
+
+<!-- .slide -->
+
+## Blogs
+
+<!-- .slide vertical=true -->
+
+<!-- .slide -->
+
+## Skills
+
+<!-- .slide vertical=true -->
+
+<!-- .slide vertical=true -->
