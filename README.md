@@ -7,7 +7,6 @@
 ## Contact
 
 - Address: **Mars**
-- Phone: **+86 15185338899**
 - Site: **<https://seerblog.top>**
 
 <!-- .slide vertical=true -->
