@@ -1,7 +1,7 @@
 title: 時間の流れ # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
   null<br/>
-  <a href="mailto:i@wu-kan.cn">
+  <a href="mailto:2687769088@qq.com">
     <i class="fas fa-envelope"></i>
   </a>
   <a href="https://github.com/2687769088">
@@ -11,7 +11,7 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
     <i class="fas fa-chart-bar"></i>
   </a>
   <a href="https://space.bilibili.com/180314026">
-    <i class="fas fa-smile"></i>
+    <i class="fas fa-bilibili"></i>
   </a>
   <a href="https://www.zhihu.com/people/bing-ming-mo-jun">
     <i class="fab fa-zhihu"></i>
@@ -58,12 +58,12 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320"
+                href="https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E5%A4%AA%E5%AE%B0%E6%B2%BB%20%E6%96%87%E8%B1%AA%E9%87%8E%E7%8A%AC&step_word=&hs=2&pn=46&spn=0&di=183040&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=784215470%2C2427479030&os=3928163712%2C1230210848&simid=4259673896%2C798444837&adpicid=0&lpn=0&ln=1563&fr=&fmq=1389861203899_R&fm=&ic=0&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=%E5%A4%AA%E5%AE%B0%E6%B2%BB&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2Fc-ssl.duitang.com%2Fuploads%2Fitem%2F202003%2F25%2F20200325180806_yoevk.jpg%26refer%3Dhttp%3A%2F%2Fc-ssl.duitang.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Djpeg%3Fsec%3D1614138207%26t%3D0bb3e01a938c772b2377d0942928b8d6&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3Dmabcndd8d&gsm=2f&rpstart=0&rpnum=0&islist=&querylist=&force=undefined"
               />
               <link
                 rel="shortcut
                 icon"
-                href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=32"
+                href="https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E7%9B%BE%E4%B9%8B%E5%8B%87%E8%80%85%E6%88%90%E5%90%8D%E5%BD%95&step_word=&hs=2&pn=3&spn=0&di=218130&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=1675970673%2C3927847198&os=4620101%2C3107983033&simid=4131745612%2C826031074&adpicid=0&lpn=0&ln=1650&fr=&fmq=1611546302155_R&fm=result&ic=0&s=undefined&hd=&latest=&copyright=&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2Fa-ssl.duitang.com%2Fuploads%2Fitem%2F201902%2F20%2F20190220225153_hyoke.thumb.700_0.jpg%26refer%3Dhttp%3A%2F%2Fa-ssl.duitang.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Djpeg%3Fsec%3D1614138386%26t%3D877419bc667a24daf15074b46000d04e&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B17tpwg2_z%26e3Bv54AzdH3Fks52AzdH3F%3Ft1%3D8amnnallnn&gsm=4&rpstart=0&rpnum=0&islist=&querylist=&force=undefined"
               />
             - | # 来自lanyon的页面样式，不要改
               <link
