@@ -1,19 +1,17 @@
 title: 時間の流れ # 站点标题
 description: | # 头像背后的信息（html格式），<br/>代表换行
-  null<br/>
+  这里什么也没有哦<br/>
   <a href="mailto:2687769088@qq.com">
     <i class="fas fa-envelope"></i>
   </a>
   <a href="https://github.com/2687769088">
     <i class="fab fa-github"></i>
   </a>
-  <a href="http://baidu.com">
+  <a href="https://baidu.com">
     <i class="fas fa-chart-bar"></i>
   </a>
-  <a href="http://baidu.com">
+  <a href="https://baidu.com">
     <i class="fas fa-smile"></i>
-  <a href="https://space.bilibili.com/180314026">
-    <i class="fas fa-bilibili"></i>
   </a>
   <a href="https://www.zhihu.com/people/bing-ming-mo-jun">
     <i class="fab fa-zhihu"></i>
@@ -27,7 +25,7 @@ description: | # 头像背后的信息（html格式），<br/>代表换行
     marginwidth="0"
     marginheight="0"
   ></iframe>
-url: http://seerblog.top 
+url: https://seerblog.top 
 baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上目录名，并且下面配置的所有链接里的`/assets`前也要加，即`/your_baseurl/assets`。这一项结尾不要有'/'。
 
 defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/front-matter-defaults/>功能进行配置
@@ -60,7 +58,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                href="https://www-beta1.duitang.com/p/atlas/?id=124448508"
+                href="https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320"
               />
               <link
                 rel="shortcut
@@ -228,7 +226,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
               enable: true
-              img: https://www-beta1.duitang.com/p/atlas/?id=124448454
+              img: https://gravatar.loli.net/avatar/289efba375d63424de3c49569c446744?s=320 # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fas fa-home fa-fw"></i> 首页'
                 href: /
@@ -404,6 +402,33 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                     src='https://cdn.jsdelivr.net/npm/busuanzi@2.3.0'
                     async='async'
                   ></script>
+                </div>
+              - | # 觉得我的主题好用的话，让更多的人知道它吧！
+                <div>
+                  <i class="fas fa-thumbs-up fa-fw"></i>
+                  <a href="https://jekyll-theme-WuK.wu-kan.cn">
+                    jekyll-theme-WuK
+                  </a>
+                </div>
+              - | # Copyright声明
+                <div>
+                  <i class="fas fa-copyright fa-fw"></i>
+                  2017-2020 WuK
+                </div>
+              - | # 我的备案信息，请你的网站删掉这一项。互联网非法外之地！
+                <div>
+                  <i class="fas fa-info-circle fa-fw"></i>
+                  <a href="http://beian.miit.gov.cn">
+                    粤ICP备 20024947号
+                  </a>
+                </div>
+              - | # 公安网备信息
+                <div>
+                  <img src="http://www.beian.gov.cn/img/new/gongan.png" class="fa-fw"></img>
+                  <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=34070202000407">
+                    皖公网安备 34070202000407号
+                  </a>
+                </div>
             wordcount: # 全站字数统计
               enable: false # 本地调试时建议关闭，非常影响站点生成速度（所需时间与博文数量的平方成正比）
               prepend: <i class="fas fa-user-edit fa-fw"></i>
@@ -598,12 +623,13 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
           append_to_head:
             - | # 需要配置的变量见<https://merger.justhx.com/cn/docs/configure>
               <script>
-                var myname = "null";
-                var profile = "@qq.com";
+                var myname = "WuK";
+                var profile = "i@wu-kan.cn";
                 var usage = "payment";
-                var wechat = "wxp://f2f0hJXrrXvNNtVCwWJI9KZB5fQuVxBlSGDY0YKzcAlZt3I=";
-                var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQgLTQgQoY54a5gAY%3D_xxx_sign&u=2687769088&n=%E8%BF%99%E9%87%8C%E6%98%AF%E9%AD%94%E5%90%9B%E5%93%A6";
-                var alipay = "https://qr.alipay.com/fkx17695zlxsojoy6ws2y87";
+                var wechat = "wxp://f2f0BhUoIC_9gex7-tC2PRvVuoA486mK5WyC";
+                var tenpay = "https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQ77zFwQMY-6u57gU%3D_xxx_sign&u=942759535&n=%E8%94%9A";
+                var alipay = "https://qr.alipay.com/fkx02750b5kbplxvudqrx16";
+                var paypal = "https://paypal.me/wukan0621";
                 var multilingual = false;
                 var branding = false;
                 var title = "选择你的支付方式";
@@ -678,7 +704,6 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 homePageUrl='/'
                 homePageName='回到我的主页'
               ></script>
-
 compress_html: # <https://github.com/penibelst/jekyll-compress-html>
   clippings: all
   comments: [] # 注释不能压缩，否则 reveal.js 的 ppt切屏受影响
