@@ -17,40 +17,8 @@
 
 <!-- .slide -->
 
-## Education
-
-<!-- .slide vertical=true -->
-
-<!-- .slide -->
-
-## Projects
-
-<!-- .slide vertical=true -->
-
-<!-- .slide -->
-
-## Honors
-
-<!-- .slide vertical=true -->
-
-<!-- .slide vertical=true -->
-
-<!-- .slide vertical=true -->
-
-<!-- .slide -->
-
-## Leadership
-
-<!-- .slide -->
-
-## Blogs
-
-<!-- .slide vertical=true -->
-
-<!-- .slide -->
-
 ## Skills
-
+- 贴膜
 <!-- .slide vertical=true -->
 
 <!-- .slide vertical=true -->
