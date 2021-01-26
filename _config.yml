@@ -58,12 +58,12 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             - | # 网站小图标，可换成你自己的图片，改href中的部分即可
               <link
                 rel="apple-touch-icon-precomposed"
-                href="https://c-ssl.duitang.com/uploads/blog/202101/25/20210125121730_188bc.png"
+                href="https://s.gravatar.com/avatar/7b9dd8fad495255ae73e13836728e831?s=80"
               />
               <link
                 rel="shortcut
                 icon"
-                href="https://c-ssl.duitang.com/uploads/blog/202101/25/20210125121730_188bc.png"
+                href="https://s.gravatar.com/avatar/7b9dd8fad495255ae73e13836728e831?s=80"
               />
             - | # 来自lanyon的页面样式，不要改
               <link
