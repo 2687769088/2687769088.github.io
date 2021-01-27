@@ -17,10 +17,7 @@
 
 <!-- .slide -->
 
-## 玩的游戏
-- 部落冲突
-- codm
-- 游戏王决斗链接国服
+## 待定项
 <!-- .slide vertical=true -->
 
 <!-- .slide vertical=true -->
