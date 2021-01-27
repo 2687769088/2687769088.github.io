@@ -1,11 +1,10 @@
 # 時間の流れ
 - The Road So Far.
-欢迎访问我的个人主页！\~
 
 <!-- .slide -->
 
 ## Contact
-
+欢迎访问我的个人主页！\~
 - Address: ** China**
 - Site: **<https://seerblog.top>**
 
