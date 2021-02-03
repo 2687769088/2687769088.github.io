@@ -1,0 +1,13 @@
+## 斐波那契数列
+```java
+
+a = 0
+b = 1
+fb = []
+while (a < 10000) and (b < 10000):
+    fb.append(a)
+    a,b=b,b+a
+print(fb)
+
+
+```
