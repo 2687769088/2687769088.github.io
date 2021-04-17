@@ -6,7 +6,7 @@
 ## Contact
 欢迎访问我的个人主页！\~
 - Address: ** China**
-- Site: **<https://seerblog.top>**
+- Site: **<https://imojun.fun>**
 
 <!-- .slide vertical=true -->
 
