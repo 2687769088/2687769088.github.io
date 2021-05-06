@@ -1,6 +1,6 @@
 # 時間の流れ
 - The Road So Far.
-
+- 慎始慎终，勿忘初心。
 <!-- .slide -->
 
 ## Contact
